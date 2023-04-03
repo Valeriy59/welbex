@@ -7,7 +7,6 @@ SPA for Welbex.
 ## Technology stack:
 
 - React, HTML5, SCSS
-- Адаптивная, семантическая верстка
 
 ## Repository GitHub:
 
