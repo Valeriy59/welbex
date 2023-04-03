@@ -2,7 +2,7 @@
 
 SPA for Welbex.
 
-- [[demo](https://Valeriy59.github.io/welbex)
+- [demo](https://Valeriy59.github.io/welbex)
 
 ## Technology stack:
 
