@@ -10,7 +10,7 @@ SPA for Welbex.
 
 ## Repository GitHub:
 
-- [github](https://github.com/malkov-am/welbex)
+- [github](https://github.com/Valeriy59/welbex)
 
 ## Figma:
 
