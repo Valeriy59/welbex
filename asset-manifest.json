@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/welbex/static/css/main.3f39ea7e.css",
-    "main.js": "/welbex/static/js/main.c6dd7d16.js",
+    "main.js": "/welbex/static/js/main.83ec5ea1.js",
     "static/js/787.08f9b020.chunk.js": "/welbex/static/js/787.08f9b020.chunk.js",
     "static/media/bg.svg": "/welbex/static/media/bg.c82a7bf36be0e623b92c.svg",
     "static/media/welbex-logo.svg": "/welbex/static/media/welbex-logo.0d55aae9439941ced2d4f1d942660fc9.svg",
@@ -16,11 +16,11 @@
     "static/media/telegram-icon.svg": "/welbex/static/media/telegram-icon.b254c114cc0bd1e031882227471cd31e.svg",
     "static/media/dash-line.svg": "/welbex/static/media/dash-line.1a402e477107ef91321e7daf0f695e7b.svg",
     "main.3f39ea7e.css.map": "/welbex/static/css/main.3f39ea7e.css.map",
-    "main.c6dd7d16.js.map": "/welbex/static/js/main.c6dd7d16.js.map",
+    "main.83ec5ea1.js.map": "/welbex/static/js/main.83ec5ea1.js.map",
     "787.08f9b020.chunk.js.map": "/welbex/static/js/787.08f9b020.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f39ea7e.css",
-    "static/js/main.c6dd7d16.js"
+    "static/js/main.83ec5ea1.js"
   ]
 }
