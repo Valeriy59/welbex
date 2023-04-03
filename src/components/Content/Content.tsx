@@ -42,24 +42,24 @@ export const Content = () => {
             </div>
             <div className={s.main__layoutMobile}>
               <div>
-                <img src={dashLine} alt="dash" className={s.main__line}/>
+                <img src={dashLine} alt="dash" className={s.main__line} />
                 <span>Skype аудит</span>
               </div>
               <div>
-                <img src={dashLine} alt="dash" className={s.main__line}/>
+                <img src={dashLine} alt="dash" className={s.main__line} />
                 <span>30 виджетов</span>
               </div>
               <div>
-                <img src={dashLine} alt="dash" className={s.main__line}/>
+                <img src={dashLine} alt="dash" className={s.main__line} />
                 <span>Dashboard</span>
               </div>
               <div>
-                <img src={dashLine} alt="dash" className={s.main__line}/>
+                <img src={dashLine} alt="dash" className={s.main__line} />
                 <span>Месяц аmoCRM</span>
               </div>
             </div>
             <button className={s.main__button}>Получить консультацию</button>
-            <img className={s.main__redBall} src={redBallSmall} alt="red ball small"/>
+            <img className={s.main__redBall} src={redBallSmall} alt="red ball small" />
           </div>
         </div>
       </div>

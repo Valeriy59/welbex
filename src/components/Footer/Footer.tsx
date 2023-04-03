@@ -53,9 +53,7 @@ export const Footer = () => {
                   <img src={whatsappIcon} alt="WhatsApp" />
                 </a>
               </div>
-              <a href="/">
-                Москва, Путевой проезд 3с1, к 902
-              </a>
+              <a href="/">Москва, Путевой проезд 3с1, к 902</a>
             </div>
           </div>
         </div>

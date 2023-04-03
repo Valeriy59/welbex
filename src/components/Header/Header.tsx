@@ -12,10 +12,8 @@ export const Header = () => {
   return (
     <div className={s.container}>
       <div className={s.header}>
-        <img  src={welbexLogo} alt="Logo: Welbex" className={s.logo} />
-        <p className={s.header__description}>
-          крупный интегратор CRM в Росcии и ещё 8 странах
-        </p>
+        <img src={welbexLogo} alt="Logo: Welbex" className={s.logo} />
+        <p className={s.header__description}>крупный интегратор CRM в Росcии и ещё 8 странах</p>
         <div className={s.header__navbar}>
           <a href="/" className={s.header__items}>
             Услуги
